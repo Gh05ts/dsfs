@@ -1,3 +1,3 @@
-module github.com/Gh05ts/dist-fs
+module github.com/Gh05ts/dsfs
 
 go 1.20
